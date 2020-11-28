@@ -10,7 +10,7 @@ paperurl: 'https://thu17cyz.github.io/files/pointalign.pdf'
 ---
 In this work, we proposed a method of hierarchically aligning point cloud to local tangent space, which could be easily applied to multiple mainstream point cloud networks and make them invariant to arbitrary rotation. Our method outperformed the prior art remarkably.
 
-<img src="images/rotation_variance.png" alt="img" style="zoom: 33%;" />
+![img](../images/rotation_variance.png)
 
 [Download our paper here](https://thu17cyz.github.io/files/pointalign.pdf)
 
