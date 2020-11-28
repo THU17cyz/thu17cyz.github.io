@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Tsinghua University, 2017-2021 (expected)
+* B.E. in Software Engineering, Tsinghua University, 2017-2021 (expected)
   * Overall GPA **3.98**/4.0, ranking **1**/81
   * Major GPA **3.99**/4.0, ranking **1**/81
 
