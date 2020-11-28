@@ -15,8 +15,6 @@ Education
   * Overall GPA **3.98**/4.0, ranking **1**/81
   * Major GPA **3.99**/4.0, ranking **1**/81
 
-test
-
 Selected Awards (In Chronological Order)
 ======
 * First Prize in 2020 WeChat Mini Program Application Development Competition, Mini-game Track (4 out of 171 teams from all universities in China), 2020
