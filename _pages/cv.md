@@ -10,22 +10,38 @@ redirect_from:
 {% include base_path %}
 
 Education
+
 ======
+
 * B.S. in Software Engineering, Tsinghua University, 2021 (expected)
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
+
 ======
+
 * Spring 2020: Research Intern
-  * Sensetime
+  * Sensetime, EIG Research
   * Duties included: Research on instance segmentation
   * Supervisor: [Kai Chen](http://chenkai.site/)
 
 * Autumn 2020: Research Intern
-  * Sensetime
+  * Sensetime, Department of Deep Learning Platform and Tools
   * Duties included: Participating in development of [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
   * Supervisor: [Kai Chen](http://chenkai.site/)
+
+Skills
+
+======
+
+* Programming languages
+  * Python: Advanced
+  * C/C++: Intermediate
+  * Java: Intermediate
+  * JavaScript: Intermediate
+  * Matlab: Beginner
+* English
+  * TOEFL: 115(R30, L30, S27, W28)
+  * GRE: 339+4.5
   
 <!-- Skills
 ======
