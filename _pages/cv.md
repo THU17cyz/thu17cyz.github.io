@@ -10,15 +10,11 @@ redirect_from:
 {% include base_path %}
 
 Education
-
 ======
-
 * B.S. in Software Engineering, Tsinghua University, 2021 (expected)
 
 Work experience
-
 ======
-
 * Spring 2020: Research Intern
   * Sensetime, EIG Research
   * Duties included: Research on instance segmentation
@@ -30,9 +26,7 @@ Work experience
   * Supervisor: [Kai Chen](http://chenkai.site/)
 
 Skills
-
 ======
-
 * Programming languages
   * Python: Advanced
   * C/C++: Intermediate
@@ -40,7 +34,7 @@ Skills
   * JavaScript: Intermediate
   * Matlab: Beginner
 * English
-  * TOEFL: 115(R30, L30, S27, W28)
+  * TOEFL: 115 (R30, L30, S27, W28)
   * GRE: 339+4.5
   
 <!-- Skills
