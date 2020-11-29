@@ -1,5 +1,5 @@
 ---
-title: "PointAlign: Towards Rotation Invariant Point Cloud Representation via Tangent Space Alignment"
+title: "PointAlign: Towards Rotation Invariant Point Cloud Representation via Tangent Space Alignment (2019.4-2019.11)"
 collection: research
 permalink: /research/pointalign
 excerpt: 'In this work, we proposed a method of hierarchically aligning point cloud to local tangent space, which could be easily applied to multiple mainstream point cloud networks and make them invariant to arbitrary rotation. Our method outperformed the prior art remarkably.'
