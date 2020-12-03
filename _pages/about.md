@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yezhen Cong, a senior student at [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/), Beijing. Prior to my enrollment at Tsinghua University, I graduated from [No.2 High School Of East China Normal University](http://www.hsefz.cn/), Shanghai. I am currently applying for MS/PhD of 2021 fall. My research interests lies in 3D vision, especially under reduced supervision. Feel free to contact me via e-mail at <cyz17@mails.tsinghua.edu.cn> or <congyezhen71@hotmail.com>.
+Hello, I am Yezhen Cong, a senior student at [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/publish/soften/index.html), Beijing. Prior to my enrollment at Tsinghua University, I graduated from [No.2 High School Of East China Normal University](http://www.hsefz.cn/), Shanghai. I am currently applying for MS/PhD of 2021 fall. My research interests lies in 3D vision, especially 3D object detection and 3D tasks in low data regimes. Feel free to contact me via e-mail at <cyz17@mails.tsinghua.edu.cn> or <congyezhen71@hotmail.com>.
+
+
 
 Selected Projects
 ======
-* 3DIoUMatch, a novel semi-supervised 3D object detection framework leveraging IoU prediction [link](https://github.com/THU17cyz/3DIoUMatch)
-* Yin-Yang, a challenging WeChat mini-game [link](https://github.com/THU17cyz/Yin-Yang)
+* ### 3DIoUMatch, a novel semi-supervised 3D object detection framework leveraging IoU prediction [\[intro\]](../research/2020-04-3dioumatch.md) [\[repo\]](https://github.com/THU17cyz/3DIoUMatch)
+* ### PointAlign, a light-weighted add-on method for rotation-invariant point cloud networks [\[intro\]](../research/2019-04-pointalign.md) [\[repo\]](https://github.com/THU17cyz/PointAlign)
+* ### Yin-Yang, a challenging WeChat mini-game [\[repo\]](https://github.com/THU17cyz/Yin-Yang)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
