@@ -24,14 +24,13 @@ Education
 Publication
 ======
 * He Wang\*, **Yezhen Cong**\*, Or Litany, Yue Gao and Leonidas J. Guibas. 3DIoUMatch: Leveraging IoU
-  Prediction for Semi-Supervised 3D Object Detection. Submitted to *2021 IEEE/CVF Conference on
-  Computer Vision and Pattern Recognition (CVPR)*. Under review. [link](https://thu17cyz.github.io/files/3dioumatch.pdf)
+  Prediction for Semi-Supervised 3D Object Detection. In submission, currently under review. [link](https://thu17cyz.github.io/files/3dioumatch.pdf)
 
 Research Experience and Projects
 ======
 **Stanford University, Computer Science Department, Apr. 2020 – Nov. 2020**\
 *Research Assistant to Prof. [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), ACM fellow, IEEE fellow*\
-**3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection** 
+**3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection**
 * Proposed a novel semi-supervised method for 3D object detection based on pseudo-label propagation
 along with a carefully designed filtering mechanism; This method outperformed the prior art significantly
 under all settings on the two major indoor object detection benchmarks, ScanNet and SUNRGB-D
@@ -39,7 +38,7 @@ under all settings on the two major indoor object detection benchmarks, ScanNet 
 in both 2D and 3D semi-supervised object detection to improve the localization quality of pseudo-labels
 * Devised a differentiable 3D IoU module that enabled our localization filtering, IoU-guided NMS and IoU
 optimization for bounding box refinement, and predicted IoU more accurately than previous designs
-* Submitted a paper to CVPR 2021 as joint first author, currently under review
+* Submitted a paper as joint first author, currently under review
 
 **Tsinghua University, School of Software, Apr. 2019 – Nov. 2019**\
 *Research Assistant to Assoc. Prof. [Yue Gao](http://www.gaoyue.org/en/people/gaoyue_index.html)*\
