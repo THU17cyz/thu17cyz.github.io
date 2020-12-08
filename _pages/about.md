@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yezhen Cong, a senior student at [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/publish/soften/index.html), Beijing. Prior to my enrollment at Tsinghua University, I graduated from [No.2 High School Of East China Normal University](http://www.hsefz.cn/), Shanghai. I am currently applying for MS/PhD of 2021 fall. My research interests lies in 3D vision, especially 3D object detection and 3D tasks in low data regimes. Feel free to contact me via e-mail at <cyz17@mails.tsinghua.edu.cn> or <congyezhen71@hotmail.com>.
+Hello, I am Yezhen Cong, a senior student at [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/publish/soften/index.html), Beijing. Prior to my enrollment at Tsinghua University, I graduated from [No. 2 High School Of East China Normal University](http://www.hsefz.cn/), Shanghai. I am currently applying for MS/PhD of 2021 fall. My research interests lie in 3D vision, especially 3D object detection, and 3D tasks in low data regimes. Feel free to contact me via e-mail at <cyz17@mails.tsinghua.edu.cn> or <congyezhen71@hotmail.com>.
 
 
 
