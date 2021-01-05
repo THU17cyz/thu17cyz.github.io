@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yezhen Cong, a senior student at [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/publish/soften/index.html), Beijing. Prior to my enrollment at Tsinghua University, I graduated from [No. 2 High School of East China Normal University](http://www.hsefz.cn/), Shanghai. I am currently applying for MS/PhD of 2021 fall. My research interests lie in 3D vision, especially 3D object detection, and 3D tasks in low data regimes. Feel free to contact me via e-mail at <cyz17@mails.tsinghua.edu.cn> or <congyezhen71@hotmail.com>.
+Hello, I am Yezhen Cong, a senior student at [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/publish/soften/index.html), Beijing. Prior to my enrollment at Tsinghua University, I graduated from [No. 2 High School of East China Normal University](http://www.hsefz.cn/), Shanghai. I am currently applying for MS/PhD of 2021 fall. My research interests lie in 3D vision, especially 3D object detection/instance segmentation, and 3D tasks in low data regimes. Feel free to contact me via e-mail at <cyz17@mails.tsinghua.edu.cn> or <congyezhen71@hotmail.com>.
 
 
 
 Selected Projects
 ======
-* ***3DIoUMatch***, a novel semi-supervised 3D object detection framework leveraging IoU prediction [\[intro\]](https://thu17cyz.github.io/research/3dioumatch) [\[repo\]](https://github.com/THU17cyz/3DIoUMatch)
+* ***3DIoUMatch***, a novel semi-supervised 3D object detection framework leveraging IoU prediction [\[intro\]](https://thu17cyz.github.io/research/3dioumatch) [\[repo\]](https://github.com/THU17cyz/3DIoUMatch) [\[project page\]](https://thu17cyz.github.io/3DIoUMatch/)
 * ***PointAlign***, a light-weighted add-on method for rotation-invariant point cloud networks [\[intro\]](https://thu17cyz.github.io/research/pointalign) [\[repo\]](https://github.com/THU17cyz/PointAlign)
 * ***Yin-Yang***, a challenging WeChat mini-game [\[demo\]](https://drive.google.com/file/d/1Uxis2pPameTsC_XiGw4_lxOI2mt7p8IM/view?usp=sharing)[\[repo\]](https://github.com/THU17cyz/Yin-Yang)
 
