@@ -24,7 +24,7 @@ Education
 Publication
 ======
 * He Wang\*, **Yezhen Cong**\*, Or Litany, Yue Gao and Leonidas J. Guibas. 3DIoUMatch: Leveraging IoU
-  Prediction for Semi-Supervised 3D Object Detection. In submission, currently under review. [link](https://thu17cyz.github.io/files/3dioumatch.pdf)
+  Prediction for Semi-Supervised 3D Object Detection. *To Appear in the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)*. [link](https://thu17cyz.github.io/files/3dioumatch.pdf)
 
 Research Experience and Projects
 ======
