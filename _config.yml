@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yezhen Cong"
   avatar           : "profile.jpg"
-  bio              : "I'm a senior student at Tsinghua University, majoring in Software Engineering"
-  location         : "Beijing, China"
+  bio              : "Incoming MSCS student at Stanford University."
+  location         : "Palo Alto, CA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  "cyz17@mails.tsinghua.edu.cn"
+  email            :  "yzcong@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

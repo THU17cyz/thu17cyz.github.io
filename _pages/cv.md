@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## You can download the PDF version of my CV [here](https://thu17cyz.github.io/files/cv.pdf).
+## You can download the PDF version of my resume [here](https://thu17cyz.github.io/files/resume.pdf).
 
 &nbsp;
 

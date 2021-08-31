@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yezhen Cong, a senior student at [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/publish/soften/index.html), Beijing. Prior to my enrollment at Tsinghua University, I graduated from [No. 2 High School of East China Normal University](http://www.hsefz.cn/), Shanghai. I will enroll in the MSCS program at Stanford University this fall. My research interests lie in 3D vision, especially 3D object detection/instance segmentation, and 3D tasks in low data regimes. Feel free to contact me via e-mail at <cyz17@mails.tsinghua.edu.cn> or <congyezhen71@hotmail.com>.
+Hello, I am Yezhen Cong, an incoming MSCS student at Stanford University, California. Recently, I graduated from School of Software, Tsinghua University, Beijing. Prior to my enrollment at Tsinghua University, I graduated from No. 2 High School of East China Normal University, Shanghai. Feel free to contact me via e-mail at <yzcong@stanford.edu> or <congyezhen71@gmail.com>.
 
 
 
