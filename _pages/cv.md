@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Resume/CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,15 +16,17 @@ redirect_from:
 
 Education
 ======
-* B.E. in Software Engineering, Tsinghua University, 2017-2021 (expected)
+* M.S. in Computer Science, Stanford University, 2021.9-2023.6 (Expected)
+  
+* B.E. in Software Engineering, Tsinghua University, 2017.8-2021.6
   * Overall GPA **3.98**/4.0, ranking **1**/81
   * Major GPA **3.99**/4.0, ranking **1**/81
-  * Scored A+ (**Top 1%**) in 6 major courses
+  * Scored A+ (**Top 1%**) in 8 major courses
 
 Publication
 ======
 * He Wang\*, **Yezhen Cong**\*, Or Litany, Yue Gao and Leonidas J. Guibas. 3DIoUMatch: Leveraging IoU
-  Prediction for Semi-Supervised 3D Object Detection. *To appear in the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)*. [link](https://thu17cyz.github.io/files/3dioumatch.pdf)
+  Prediction for Semi-Supervised 3D Object Detection. *Accepted to 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)*. [link](https://thu17cyz.github.io/files/3dioumatch.pdf)
 
 Research Experience and Projects
 ======
@@ -70,18 +72,20 @@ implemented several methods of fusing point cloud data and multi-view image data
 
 Work experience
 ======
-**Sensetime, Oct. 2020 – Present**\
-*Research Intern at Department of Deep Learning Platform and Tools*
+**SenseTime, Nov. 2020 – Aug. 2021 **\
+*Software Engineering Intern at Department of Deep Learning Platform and Tools*
   * Supervisor: [Kai Chen](http://chenkai.site/)
   * Duties included: Participating in development of [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
 
-**Sensetime, Mar. 2020 – May. 2020**\
-*Research Intern at EIG Research*
+**SenseTime, Mar. 2020 – May 2020**\
+*Research Intern at OpenMMLab*
   * Supervisor: [Kai Chen](http://chenkai.site/)
   * Duties included: Research on instance segmentation based on [MMDetection](https://github.com/open-mmlab/mmdetection)
 
 Selected Awards and Honors (In Chronological Order)
 ======
+* **Outstanding Graduates** of Beijing, Tsinghua University, and School of Software, 2021
+* **Outstanding Undergraduate Thesis** of Tsinghua University, 2021
 * **First Prize** in WeChat Mini-Program Development Competition 2020, Mini-Game Track (4/171 teams from universities all over China), 2020
 * **National Scholarship** for 2019~2020 (Top 1% at Tsinghua University), 2020
 * **National Scholarship** for 2018~2019 (Top 1% at Tsinghua University), 2019
@@ -95,8 +99,8 @@ Selected Awards and Honors (In Chronological Order)
 Skills
 ======
 * Programming Skills
-  * Fluent: Python, C/C++, JavaScript, PyTorch
-  * Intermediate: Java, MATLAB, Assembly, LaTeX, TensorFlow, OpenCV
+  * Advanced: Python, PyTorch, C/C++, Java, Shell
+  * Intermediate: JavaScript, MATLAB, SQL, Assembly, TensorFlow, OpenCV, CUDA
 * Language Skills
   * Chinese: Mother tongue
   * English: Fluent, TOEFL (iBT) score 115 (R30, L30, S27, W28), GRE 339 (V169, Q170) +AW4.5
