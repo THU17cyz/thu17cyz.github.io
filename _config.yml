@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yezhen Cong"
-  avatar           : "profile.jpg"
-  bio              : "Incoming MSCS student at Stanford University."
-  location         : "Palo Alto, CA"
+  avatar           : "profile.png"
+  bio              : "MSCS student at Stanford University."
+  location         : "Stanford, CA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
