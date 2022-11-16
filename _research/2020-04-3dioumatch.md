@@ -15,8 +15,10 @@ paperurl: 'https://thu17cyz.github.io/files/3dioumatch.pdf'
 
 ![img](../images/3dioumatch_pipeline.png)
 
-Download our paper [here](https://thu17cyz.github.io/files/3dioumatch.pdf)
+Related links: 
 
-Our project website is [here](https://thu17cyz.github.io/3DIoUMatch)
+* Download our paper [here](https://arxiv.org/abs/2012.04355)
 
-View our project code [here](https://github.com/THU17cyz/3DIoUMatch)
+* Our project website is [here](https://thu17cyz.github.io/3DIoUMatch)
+
+* View our project code [here](https://github.com/THU17cyz/3DIoUMatch)
