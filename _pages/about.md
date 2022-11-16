@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yezhen Cong, a second-year MSCS student specializing in Systems Track at Stanford University. In 2021, I graduated from School of Software, Tsinghua University, Beijing. Prior to that, I graduated from No. 2 High School of East China Normal University, Shanghai. Feel free to contact me via e-mail at <yzcong at stanford dot edu> or <congyezhen71 at gmail dot com>.
+Hello, I am Yezhen Cong, a second-year MSCS student specializing in Systems Track at Stanford University. In 2021, I graduated from School of Software, Tsinghua University, Beijing. Prior to that, I graduated from No. 2 High School of East China Normal University, Shanghai. Feel free to contact me via e-mail at <yzcongATstanfordDOTedu> or <congyezhen71ATgmailDOTcom>.
 
 
 
