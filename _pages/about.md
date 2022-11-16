@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yezhen Cong, an MSCS student at Stanford University, California. Recently, I graduated from School of Software, Tsinghua University, Beijing. Prior to that, I graduated from No. 2 High School of East China Normal University, Shanghai. Feel free to contact me via e-mail at <yzcong@stanford.edu> or <congyezhen71@gmail.com>.
+Hello, I am Yezhen Cong, a second-year MSCS student specializing in Systems Track at Stanford University. In 2021, I graduated from School of Software, Tsinghua University, Beijing. Prior to that, I graduated from No. 2 High School of East China Normal University, Shanghai. Feel free to contact me via e-mail at <yzcong at stanford dot edu> or <congyezhen71 at gmail dot com>.
 
 
 
 Selected Projects
 ======
-* ***SatMAE***, a novel self-supervised learning method based on Masked Autoencoders for temporal and multi-spectral remote sensing imagery. A paper was accepted to NeurIPS 2022 [\[intro\]](https://thu17cyz.github.io/research/satmae) [\[repo\]](https://github.com/sustainlab-group/SatMAE) [\[project page\]](https://sustainlab-group.github.io/SatMAE/)
-* ***3DIoUMatch***, a novel semi-supervised 3D object detection framework leveraging IoU prediction. A paper was accepted to CVPR 2021 [\[intro\]](https://thu17cyz.github.io/research/3dioumatch) [\[repo\]](https://github.com/THU17cyz/3DIoUMatch) [\[project page\]](https://thu17cyz.github.io/3DIoUMatch/)
+* ***SatMAE***, a novel self-supervised learning method based on Masked Autoencoders for temporal and multi-spectral remote sensing imagery. A paper was accepted by NeurIPS 2022 [\[intro\]](https://thu17cyz.github.io/research/satmae) [\[repo\]](https://github.com/sustainlab-group/SatMAE) [\[project page\]](https://sustainlab-group.github.io/SatMAE/)
+
+* ***3DIoUMatch***, a novel semi-supervised 3D object detection framework leveraging IoU prediction. A paper was accepted by CVPR 2021 [\[intro\]](https://thu17cyz.github.io/research/3dioumatch) [\[repo\]](https://github.com/THU17cyz/3DIoUMatch) [\[project page\]](https://thu17cyz.github.io/3DIoUMatch/)
+
 * ***PointAlign***, a light-weight add-on method for rotation-invariant point cloud networks [\[intro\]](https://thu17cyz.github.io/research/pointalign) [\[repo\]](https://github.com/THU17cyz/PointAlign)
+
 * ***Yin-Yang***, a challenging WeChat mini-game which won the First Prize in Tencent WeChat Mini-program Development Competition 2020 [\[demo\]](https://drive.google.com/file/d/1Uxis2pPameTsC_XiGw4_lxOI2mt7p8IM/view?usp=sharing)[\[repo\]](https://github.com/THU17cyz/Yin-Yang)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

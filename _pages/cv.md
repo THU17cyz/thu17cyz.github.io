@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## You can download the PDF version of my resume [here](https://thu17cyz.github.io/files/resume.pdf).
+## You can download the PDF version of my resume [here](https://thu17cyz.github.io/files/Resume_Yezhen_Cong.pdf).
 
-&nbsp;
+<!-- &nbsp;
 
 
 Education
@@ -105,7 +105,7 @@ Skills
   * Chinese: Mother tongue
   * English: Fluent, TOEFL (iBT) score 115 (R30, L30, S27, W28), GRE 339 (V169, Q170) +AW4.5
 * Leadership
-  * Extensive leadership experience –– Vice President of Student Union at School of Software at Tsinghua University, Class Monitor, Social Practice Team Leader
+  * Extensive leadership experience –– Vice President of Student Union at School of Software at Tsinghua University, Class Monitor, Social Practice Team Leader -->
 
 
 <!-- Skills
